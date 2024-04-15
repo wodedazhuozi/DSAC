@@ -1,0 +1,1 @@
+Here we take the STL-10 dataset as an example. First use the pretext_model function in train_contrastive.py to get the pre-training model, and put the pre-training model into the STL10_result folder, and then run runSTL10.py to get the clustering results. the STL10 dataset should be put into the Dataset folder.
